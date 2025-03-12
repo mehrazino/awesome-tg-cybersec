@@ -6,6 +6,7 @@
 
 
 [فهرستی](https://github.com/mehrazino/awesome-tg-cybersec/blob/main/channels-list.md) از کانال‌های تلگرامی مرتبط با حوزه امنیت سایبری.
+
 برای علاقه‌مندان، دانشجویان، پژوهش‌گران و متخصصان این حوزه (مخصوصاً فعالین Threat Intelligence و OSINT)
 
 ## مشارکت

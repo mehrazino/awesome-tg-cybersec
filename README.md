@@ -1,11 +1,12 @@
-## مخزن کانال‌های مرتبط با امنیت سایبری
+## مخزن کانال‌های تلگرام مرتبط با امنیت سایبری
 
 [[English]](https://github.com/mehrazino/awesome-tg-cybersec/blob/main/README-en.md)
 
 ![Logo](/icon.png)
 
 
-[فهرستی](https://github.com/mehrazino/awesome-tg-cybersec/blob/main/channels-list.md) از کانال‌های تلگرامی مرتبط با حوزه امنیت سایبری، برای علاقه‌مندان، دانشجویان، پژوهش‌گران و متخصصان این حوزه (مخصوصاً فعالین Threat Intelligence و OSINT)
+[فهرستی](https://github.com/mehrazino/awesome-tg-cybersec/blob/main/channels-list.md) از کانال‌های تلگرامی مرتبط با حوزه امنیت سایبری.
+برای علاقه‌مندان، دانشجویان، پژوهش‌گران و متخصصان این حوزه (مخصوصاً فعالین Threat Intelligence و OSINT)
 
 ## مشارکت
 

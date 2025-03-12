@@ -1,7 +1,5 @@
 ### مخزن کانال‌های مربوط به امنیت سایبری
 [[English]](https://github.com/mehrazino/awesome-tg-cybersec/blob/main/README-en.md)
- [[русский]](https://github.com/mehrazino/awesome-tg-cybersec/blob/main/README-ru.md)
- [[中文]](https://github.com/mehrazino/awesome-tg-cybersec/blob/main/README-zh.md)
 
 ![Logo](/icon.png)
 
